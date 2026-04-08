@@ -29,7 +29,8 @@ export default defineConfig(({ mode }) => {
     server: {
       // ✅ FIX lỗi "Blocked request. This host is not allowed"
       allowedHosts: [
-        'all',
+        'cv-builder-pro.onrender.com',
+        'all'
       ],
       // Hoặc dùng dòng dưới nếu muốn cho phép tất cả (dùng khi test)
       // allowedHosts: 'all',
