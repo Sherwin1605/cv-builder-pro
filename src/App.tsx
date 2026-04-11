@@ -189,7 +189,7 @@ export default function App() {
                 >
                   <span className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-primary-50 text-primary-800 text-sm font-bold border border-primary-100 mb-8">
                     <CheckIcon size={16} />
-                    Nền tảng tạo CV số 1 Việt Nam
+                    CVBuilder Pro - Chuẩn hóa hồ sơ, nâng bước sự nghiệp
                   </span>
                   <h1 className="text-5xl md:text-7xl font-black text-primary-900 leading-[1.1] tracking-tight mb-8">
                     Tạo CV chuyên nghiệp <br/> chỉ trong <span className="text-emerald-600">5 phút</span>
